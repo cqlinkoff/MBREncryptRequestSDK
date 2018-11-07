@@ -1,0 +1,6 @@
+framework module MBREncrytRequestSDK {
+  umbrella header "MBREncrytRequestSDK.h"
+
+  export *
+  module * { export * }
+}
